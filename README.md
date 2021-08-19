@@ -4,8 +4,6 @@
 
 # IBM Data Science Professional Certificate
 
-<br>
-
 <p align="center">
  <img src="https://raw.githubusercontent.com/Jadams29/IBM-Data-Science-Professional-Certificate/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
 </p>
@@ -29,26 +27,22 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-**Projects:** 
-
-
+**Projects:** random album generator, predict housing prices, best classifier model, battle of neighborhoods 
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-- 
-
 ## Specialization Overview
 
-  - [x] [CS 6475 - Computational Photography](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%206475%20-%20Computational%20Photography)
-  - [x] [CS 6476 - Computer Vision](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%206476%20-%20Computer%20Vision)
-  - [ ] [CS 6515 - Intro to Graduate Algorithms](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%206515%20-%20Intro%20to%20Graduate%20Algorithms)
-  - [x] [CS 6637 - Knowledge-Based AI](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207637%20-%20Knowledge-Based%20AI)
-  - [ ] [CS 7638 - Artificial Intelligence for Robotics](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207638%20-%20Artificial%20Intelligence%20for%20Robotics)
-  - [x] [CS 7641 - Machine Learning](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207641%20-%20Machine%20Learning)
-  - [x] [CS 7642 - Reinforcement Learning](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207642%20-%20Reinforcement%20Learning)
-  - [ ] [CS 7643 - Deep Learning](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207643%20-%20Deep%20Learning)
-  - [x] [CS 7646 - Machine Learning for Trading](https://github.com/Jadams29/Georgia-Tech/tree/master/CS%207646%20-%20Machine%20Learning%20for%20Trading)
-  - [x] [CSE 6242 - Data & Visual Analytics](https://github.com/Jadams29/Georgia-Tech/tree/master/CSE%206242%20-%20Data%20%26%20Visual%20Analytics)
+  - [x] [What is Data Science?](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/What%20is%20Data%20Science)
+  - [x] [Tools for Data Science](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Tools%20for%20Data%20Science)
+  - [x] [Data Science Methodology](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Science%20Methodology)
+  - [x] [Python for Data Science, AI & Development](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
+  - [x] [Python Project for Data Science](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science)
+  - [x] [Databases and SQL for Data Science with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
+  - [ ] [Data Analysis with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
+  - [ ] [Data Visualization with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
+  - [ ] [Machine Learning with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Machine%20Learning%20with%20Python)
+  - [ ] [Applied Data Science Capstone](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Applied%20Data%20Science%20Capstone)
 
 ## Resources
 
