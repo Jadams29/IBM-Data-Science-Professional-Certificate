@@ -33,7 +33,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Projects:** 
 
-- [ ] [Airplane Dashboard](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python/Airplane%20Dashboard.ipynb)
+- [ ] [Airplane Dashboard](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python/Airplane_Dashboard.ipynb)
 - [ ] 
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
