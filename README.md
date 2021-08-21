@@ -31,7 +31,10 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 
-**Projects:** random album generator, predict housing prices, best classifier model, battle of neighborhoods 
+**Projects:** 
+
+- [ ] [Airplane Dashboard](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python/Airplane%20Dashboard.ipynb)
+- [ ] 
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
@@ -45,7 +48,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
   - [x] [Python for Data Science, AI & Development](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
   - [x] [Python Project for Data Science](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science)
   - [x] [Databases and SQL for Data Science with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-  - [ ] [Data Analysis with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
-  - [ ] [Data Visualization with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
+  - [x] [Data Analysis with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
+  - [x] [Data Visualization with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
   - [ ] [Machine Learning with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Machine%20Learning%20with%20Python)
   - [ ] [Applied Data Science Capstone](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Applied%20Data%20Science%20Capstone)
