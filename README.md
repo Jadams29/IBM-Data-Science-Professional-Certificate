@@ -50,5 +50,5 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
   - [x] [Databases and SQL for Data Science with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
   - [x] [Data Analysis with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)
   - [x] [Data Visualization with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python)
-  - [ ] [Machine Learning with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Machine%20Learning%20with%20Python)
-  - [ ] [Applied Data Science Capstone](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Applied%20Data%20Science%20Capstone)
+  - [x] [Machine Learning with Python](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Machine%20Learning%20with%20Python)
+  - [x] [Applied Data Science Capstone](https://github.com/Jadams29/IBM-Data-Science-Professional-Certificate/tree/main/Applied%20Data%20Science%20Capstone)
